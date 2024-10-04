@@ -386,3 +386,8 @@ mark {
   padding-bottom: 0.5em;
   background-color: #ffde59;
 }
+.blue{
+  margin-left: 4px;
+  color: blue;
+  text-decoration: underline;
+}

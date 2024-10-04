@@ -156,3 +156,8 @@ mark {
         .button:hover {
             background-color: #45a049; /* لون أخضر أغمق عند المرور */
         }
+        .blue{
+  margin-left: 4px;
+  color: blue;
+  text-decoration: underline;
+}
