@@ -92,13 +92,18 @@ body{
   display: flex;
   align-items: center;
   justify-content: space-between;
+  border-radius: 0.75rem;
   background-color: rgba(0, 140, 255, 0.082);
 }
 
 .tag {
   font-weight: 300;
-  font-size: .75rem;
+  font-size: .8rem;
   display: block;
+}
+
+.tag span{
+  color: #000;
 }
 
 .action {
